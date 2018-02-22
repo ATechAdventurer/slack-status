@@ -1,6 +1,6 @@
 {
   "name": "slack-status-lite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lite package for easily changing ones slack status",
   "main": "index.js",
   "scripts": {
